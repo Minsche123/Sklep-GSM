@@ -1,0 +1,1162 @@
+<!doctype html>
+<html lang="fr">
+
+  <head>
+    
+      
+<meta charset="utf-8">
+
+
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+
+  <title>Erreur 404</title>
+  <meta name="description" content="Impossible de trouver la page">
+  <meta name="keywords" content="">
+    
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="../favicon.ico@1547639823">
+<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico@1547639823">
+
+<!-- Template added -->
+
+<link href="../../../../../../https@fonts.googleapis.com/css@family=Poppins_3A300,400,500,600,700" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="../../themes/ecmart/assets/css/theme.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../modules/psblog/views/css/psblog.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../modules/psblog/views/css/lightbox.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../modules/psproductcountdown/views/css/psproductcountdown.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../modules/psproductcountdown/views/css/themes/1.7/1-simple.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../modules/productcomments/productcomments.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../js/jquery/ui/themes/base/minified/jquery-ui.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../js/jquery/ui/themes/base/minified/jquery.ui.theme.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../js/jquery/plugins/fancybox/jquery.fancybox.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../modules/pst_offercmsblock/views/css/pst_offercmsblock.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../modules/pst_verticalmenu/views/css/pst_verticalmenu.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../modules/stproductsearch/css/stsearch.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../modules/stproductsearch/css/jquery.autocomplete_productsearch.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../modules/pst_bannercmsblock/views/css/pst_bannercmsblock.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../modules/pst_serviceblock/views/css/pst_serviceblock.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../modules/pst_categorycmsblock/views/css/pst_categorycmsblock.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../modules/pst_categoryslider/views/css/pst_categoryslider.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../modules/pst_paymentcmsblock/views/css/pst_paymentcmsblock.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../modules/pst_imageslider/views/css/flexslider.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../modules/pst_blocktopcontact/views/css/pst_blocktopcontact.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../themes/ecmart/assets/css/font-awesome.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../themes/ecmart/assets/css/owl.transitions.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../../themes/ecmart/assets/css/custom.css" type="text/css" media="all">
+
+
+
+
+  
+
+  <script type="text/javascript">
+        var ajaxsearch = "1";
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Total","amount":0,"value":"0,00\u00a0SAR"},"total_including_tax":{"type":"total","label":"Total TTC","amount":0,"value":"0,00\u00a0SAR"},"total_excluding_tax":{"type":"total","label":"Total HT :","amount":0,"value":"0,00\u00a0SAR"}},"subtotals":{"products":{"type":"products","label":"Sous-total","amount":0,"value":"0,00\u00a0SAR"},"discounts":null,"shipping":{"type":"shipping","label":"Livraison","amount":0,"value":"gratuit"},"tax":{"type":"tax","label":"Taxes","amount":0,"value":"0,00\u00a0SAR"}},"products_count":0,"summary_string":"0 articles","vouchers":{"allowed":0,"added":[]},"discounts":[],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"name":"rial saoudien","iso_code":"SAR","iso_code_num":"682","sign":"SAR"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Fran\u00e7ais (French)","iso_code":"fr","locale":"fr-FR","language_code":"fr-fr","is_rtl":"0","date_format_lite":"d\/m\/Y","date_format_full":"d\/m\/Y H:i:s","id":7},"page":{"title":"La page que vous cherchez n'a pas \u00e9t\u00e9 trouv\u00e9e.","canonical":null,"meta":{"title":"Erreur 404","description":"Impossible de trouver la page","keywords":"","robots":"index"},"page_name":"pagenotfound","body_classes":{"lang-fr":true,"lang-rtl":false,"country-US":true,"currency-SAR":true,"layout-full-width":true,"page-pagenotfound":true,"tax-display-disabled":true},"admin_notifications":[]},"shop":{"name":"Ecmart Electronics Store","logo":"../demo-store-logo-1547639823.jpg","stores_icon":"../logo_stores.png","favicon":"../favicon.ico"},"urls":{"base_url":"../../default.htm","current_url":"13.jpg","shop_domain_url":"../../../../../default.htm","img_ps_url":"../default.htm","img_cat_url":"default.htm","img_lang_url":"../l/default.htm","img_prod_url":"../p/default.htm","img_manu_url":"../m/default.htm","img_sup_url":"../su/default.htm","img_ship_url":"../s/default.htm","img_store_url":"../st/default.htm","img_col_url":"../co/default.htm","img_url":"../../themes/ecmart/assets/img/default.htm","css_url":"../../themes/ecmart/assets/css/default.htm","js_url":"../../themes/ecmart/assets/js/default.htm","pic_url":"../../upload/default.htm","pages":{"address":"../../fr/adresse","addresses":"../../fr/adresses","authentication":"../../fr/connexion","cart":"../../fr/panier","category":"../../fr/index.php@controller=category","cms":"../../fr/index.php@controller=cms","contact":"../../fr/nous-contacter","discount":"../../fr/reduction","guest_tracking":"../../fr/suivi-commande-invite","history":"../../fr/historique-commandes","identity":"../../fr/identite","index":"../../fr/default.htm","my_account":"../../fr/mon-compte","order_confirmation":"../../fr/confirmation-commande","order_detail":"../../fr/index.php@controller=order-detail","order_follow":"../../fr/suivi-commande","order":"../../fr/commande","order_return":"../../fr/index.php@controller=order-return","order_slip":"../../fr/avoirs","pagenotfound":"../../fr/page-introuvable","password":"../../fr/recuperation-mot-de-passe","pdf_invoice":"../../fr/index.php@controller=pdf-invoice","pdf_order_return":"../../fr/index.php@controller=pdf-order-return","pdf_order_slip":"../../fr/index.php@controller=pdf-order-slip","prices_drop":"../../fr/promotions","product":"../../fr/index.php@controller=product","search":"../../fr/recherche","sitemap":"../../fr/plan du site","stores":"../../fr/magasins","supplier":"../../fr/fournisseur","register":"../../fr/connexion@create_account=1","order_login":"../../fr/commande@login=1"},"alternative_langs":{"en-us":"../../en/page-not-found","ar-sa":"../../ar//u0635/u0641/u062d/u0629 /u063a/u064a/u0631 /u0645/u0648/u062c/u0648/u062f/u0629","es-es":"../../es/pagina-no-encontrada","fr-fr":"../../fr/page-introuvable","de-de":"../../de/seite-nicht-gefunden","it-it":"../../it/pagina-non-trovata"},"theme_assets":"\/prestashop\/PRS01\/PRS0100029\/themes\/ecmart\/assets\/","actions":{"logout":"../../fr/@mylogout="},"no_picture_image":{"bySize":{"cart_default":{"url":"../p/fr-default-cart_default.jpg","width":74,"height":90},"small_default":{"url":"../p/fr-default-small_default.jpg","width":74,"height":90},"medium_default":{"url":"../p/fr-default-medium_default.jpg","width":270,"height":330},"home_default":{"url":"../p/fr-default-home_default.jpg","width":270,"height":330},"large_default":{"url":"../p/fr-default-large_default.jpg","width":565,"height":691}},"small":{"url":"../p/fr-default-cart_default.jpg","width":74,"height":90},"medium":{"url":"../p/fr-default-medium_default.jpg","width":270,"height":330},"large":{"url":"../p/fr-default-large_default.jpg","width":565,"height":691},"legend":""}},"configuration":{"display_taxes_label":false,"is_catalog":false,"show_prices":true,"opt_in":{"partner":true},"quantity_discount":{"type":"discount","label":"Remise"},"voucher_enabled":0,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Accueil","url":"../../fr/default.htm"}],"count":1},"link":{"protocol_link":"../../../../../../https@/default.htm","protocol_content":"../../../../../../https@/default.htm"},"time":1561196427,"static_token":"b9b242d817d88f7924697f6afc016c81","token":"42b96055ef7e5c7de6525bb6962e6a09"};
+        var st_search_url = "../../fr/module/stproductsearch/productsearch";
+      </script>
+
+
+
+  <!-- module psproductcountdown start -->
+<script type="text/javascript">
+            var pspc_labels = ['weeks', 'days', 'hours', 'minutes', 'seconds'];
+        var pspc_labels_lang = {
+            'weeks': 'semaines',
+            'days': 'journées',
+            'hours': 'heures',
+            'minutes': 'minutes',
+            'seconds': 'secondes'
+        };
+        var pspc_show_weeks = 1;
+    var pspc_psv = 1.7;
+</script>
+<!-- module psproductcountdown end -->
+
+
+
+    
+  </head>
+
+  <body id="pagenotfound" class="lang-fr country-us currency-sar layout-full-width page-pagenotfound tax-display-disabled">
+
+    
+    
+    
+
+    <main>
+      
+              
+
+      <header id="header">
+        
+          
+  <div class="header-banner">
+    
+  </div>
+
+
+
+<nav class="header-nav">
+ <div class="container">
+      <div class="nav-inner">  
+		<div class="hidden-md-down">
+			<div class="left-nav">
+				 
+<div id="pstblocktopcontact" class="hidden-md-down">
+
+		
+   <ul>
+		<li class="pst-contact-item">
+		    <div class="contact-details"><i class="fa fa-volume-control-phone"></i> <span class="contact-title">
+			<span class="contact-text">call us:</span>(+0)685-459-528</span></div>
+		</li>
+        <li class="pst-contact-item">
+         <div class="contact-details"><i class="fa fa-envelope"></i> <span class="contact-title">support@company.com</span></div>
+      </li>
+      
+   </ul>
+
+</div>
+
+			</div>
+			
+			<div class="right-nav">
+				<div id="_desktop_language_selector">
+  <div class="language-selector-wrapper">
+    <!--<span class="hidden-lg-up">Langue :</span>-->
+    <div class="language-selector dropdown js-dropdown">
+      <span class="expand-more hidden-md-down" data-toggle="dropdown">Français</span>
+      <a data-target="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="hidden-md-down">
+        <i class="material-icons expand-more">&#xE5CF;</i>		
+      </a>
+	   <!-- <span class="language-title hidden-md-down">Langue :</span>-->
+      <ul class=" dropdown-menu hidden-md-down">
+                  <li >
+            <a href="../../en/page-not-found" class="dropdown-item"><img class="lang-flag" src="../l/1.jpg"/>English</a>
+          </li>
+                  <li >
+            <a href="../../ar/_25D8_25B5_25D9_2581_25D8_25AD_25D8_25A9 _25D8_25BA_25D9_258A_25D8_25B1 _25D9_2585_25D9_2588_25D8_25AC_25D9_2588_25D8_25AF_25D8_25A9" class="dropdown-item"><img class="lang-flag" src="../l/2.jpg"/>اللغة العربية</a>
+          </li>
+                  <li >
+            <a href="../../es/pagina-no-encontrada" class="dropdown-item"><img class="lang-flag" src="../l/4.jpg"/>Español</a>
+          </li>
+                  <li  class="current" >
+            <a href="../../fr/page-introuvable" class="dropdown-item"><img class="lang-flag" src="../l/7.jpg"/>Français</a>
+          </li>
+                  <li >
+            <a href="../../de/seite-nicht-gefunden" class="dropdown-item"><img class="lang-flag" src="../l/8.jpg"/>Deutsch</a>
+          </li>
+                  <li >
+            <a href="../../it/pagina-non-trovata" class="dropdown-item"><img class="lang-flag" src="../l/9.jpg"/>Italiano</a>
+          </li>
+              </ul>
+      <select class="link hidden-lg-up">
+                  <option value="../../en/page-not-found">English</option>
+                  <option value="../../ar/_25D8_25B5_25D9_2581_25D8_25AD_25D8_25A9 _25D8_25BA_25D9_258A_25D8_25B1 _25D9_2585_25D9_2588_25D8_25AC_25D9_2588_25D8_25AF_25D8_25A9">اللغة العربية</option>
+                  <option value="../../es/pagina-no-encontrada">Español</option>
+                  <option value="../../fr/page-introuvable" selected="selected">Français</option>
+                  <option value="../../de/seite-nicht-gefunden">Deutsch</option>
+                  <option value="../../it/pagina-non-trovata">Italiano</option>
+              </select>
+    </div>
+  </div>
+</div>
+<div id="_desktop_currency_selector">
+  <div class="currency-selector dropdown js-dropdown">
+ <!-- <span  class="currency-title hidden-md-down">Devise :</span> -->
+ <span class="expand-more _gray-darker hidden-md-down" data-toggle="dropdown">SAR SAR</span>
+    <a data-target="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="hidden-md-down">
+      <i class="material-icons expand-more">&#xE5CF;</i>
+    </a>
+    <ul class="dropdown-menu hidden-md-down">
+              <li >
+          <a title="euro" rel="nofollow" href="../../fr/page-introuvable@SubmitCurrency=1&id_currency=3" class="dropdown-item">EUR €</a>
+        </li>
+              <li  class="current" >
+          <a title="rial saoudien" rel="nofollow" href="../../fr/page-introuvable@SubmitCurrency=1&id_currency=2" class="dropdown-item">SAR SAR</a>
+        </li>
+              <li >
+          <a title="dollar des États-Unis" rel="nofollow" href="../../fr/page-introuvable@SubmitCurrency=1&id_currency=1" class="dropdown-item">USD $</a>
+        </li>
+          </ul>
+    <select class="link hidden-lg-up">
+              <option value="../../fr/page-introuvable@SubmitCurrency=1&id_currency=3">EUR €</option>
+              <option value="../../fr/page-introuvable@SubmitCurrency=1&id_currency=2" selected="selected">SAR SAR</option>
+              <option value="../../fr/page-introuvable@SubmitCurrency=1&id_currency=1">USD $</option>
+          </select>
+  </div>
+</div>
+			</div>
+		</div>
+		
+		<div class="hidden-lg-up text-xs-center mobile">
+		 	<div class="float-xs-left vertical-menu" id="menu-icon">
+		        <i class="material-icons menu-open">&#xE5D2;</i>
+				<i class="material-icons menu-close">&#xE5CD;</i>
+				<span class="mainmenu-btn-wrapper">
+					<span class="mainmenu-btn"></span>
+				</span>				
+			</div>
+			<div class="float-xs-right" id="_mobile_cart"></div>
+			<div class="float-xs-right" id="_mobile_search_widget"></div>
+			<div class="float-xs-right" id="_mobile_user_info"></div>
+			<div class="top-logo" id="_mobile_logo"></div>
+			<div class="clearfix"></div>
+		</div>
+      </div>
+	    </div>
+</nav>
+
+
+
+	<div class="header-top">
+	 <div class="container">
+			
+			<div class="header_logo hidden-md-down" id="_desktop_logo">
+				<a href="../../default.htm">
+				<img class="logo img-responsive" src="../demo-store-logo-1547639823.jpg" alt="Ecmart Electronics Store">
+				</a>
+			</div>
+			
+
+<div class="menu pst-top-menu col-md-12 col-lg-12  js-top-menu position-static hidden-md-down" id="_desktop_top_menu">	
+    	
+          <ul class="top-menu" id="top-menu" data-depth="0">
+                    <li class="category" id="category-3">
+                          <a
+                class="dropdown-item"
+                href="../../fr/3-our-store" data-depth="0"
+                              >
+                                                                      <span class="float-xs-right hidden-lg-up">
+                    <span data-target="#top_sub_menu_38630" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                      <i class="material-icons add">&#xE145;</i>
+                  	  <i class="material-icons remove">&#xE15B;</i>
+                    </span>
+                  </span>
+                                our store
+              </a>
+                            <div  class="popover sub-menu js-sub-menu collapse" id="top_sub_menu_38630">
+                
+          <ul class="top-menu"  data-depth="1">
+                    <li class="category" id="category-4">
+                          <a
+                class="dropdown-item dropdown-submenu"
+                href="../../fr/4-audio-video" data-depth="1"
+                              >
+                                                                      <span class="float-xs-right hidden-lg-up">
+                    <span data-target="#top_sub_menu_67466" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                      <i class="material-icons add">&#xE145;</i>
+                  	  <i class="material-icons remove">&#xE15B;</i>
+                    </span>
+                  </span>
+                                audio &amp; video
+              </a>
+                            <div  class="collapse" id="top_sub_menu_67466">
+                
+          <ul class="top-menu"  data-depth="2">
+                    <li class="category" id="category-11">
+                          <a
+                class="dropdown-item"
+                href="../../fr/11-magni-dolores" data-depth="2"
+                              >
+                                magni dolores
+              </a>
+                          </li>
+                    <li class="category" id="category-12">
+                          <a
+                class="dropdown-item"
+                href="../../fr/12-rem-aperiam" data-depth="2"
+                              >
+                                rem aperiam
+              </a>
+                          </li>
+                    <li class="category" id="category-13">
+                          <a
+                class="dropdown-item"
+                href="../../fr/13-ullamco-laboris" data-depth="2"
+                              >
+                                ullamco laboris 
+              </a>
+                          </li>
+              </ul>
+    
+				<div class="menu-banners">				  
+				  				  
+				</div>
+              </div>
+                          </li>
+                    <li class="category" id="category-5">
+                          <a
+                class="dropdown-item dropdown-submenu"
+                href="../../fr/5-headphones" data-depth="1"
+                              >
+                                                                      <span class="float-xs-right hidden-lg-up">
+                    <span data-target="#top_sub_menu_16503" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                      <i class="material-icons add">&#xE145;</i>
+                  	  <i class="material-icons remove">&#xE15B;</i>
+                    </span>
+                  </span>
+                                headphones
+              </a>
+                            <div  class="collapse" id="top_sub_menu_16503">
+                
+          <ul class="top-menu"  data-depth="2">
+                    <li class="category" id="category-14">
+                          <a
+                class="dropdown-item"
+                href="../../fr/14-cumque-impedit" data-depth="2"
+                              >
+                                cumque impedit
+              </a>
+                          </li>
+                    <li class="category" id="category-15">
+                          <a
+                class="dropdown-item"
+                href="../../fr/15-accusamus-iusto" data-depth="2"
+                              >
+                                accusamus iusto	
+              </a>
+                          </li>
+                    <li class="category" id="category-16">
+                          <a
+                class="dropdown-item"
+                href="../../fr/16-ridiculus-mus" data-depth="2"
+                              >
+                                ridiculus mus
+              </a>
+                          </li>
+              </ul>
+    
+				<div class="menu-banners">				  
+				  				  
+				</div>
+              </div>
+                          </li>
+                    <li class="category" id="category-10">
+                          <a
+                class="dropdown-item dropdown-submenu"
+                href="../../fr/10-speakers" data-depth="1"
+                              >
+                                                                      <span class="float-xs-right hidden-lg-up">
+                    <span data-target="#top_sub_menu_89720" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                      <i class="material-icons add">&#xE145;</i>
+                  	  <i class="material-icons remove">&#xE15B;</i>
+                    </span>
+                  </span>
+                                speakers
+              </a>
+                            <div  class="collapse" id="top_sub_menu_89720">
+                
+          <ul class="top-menu"  data-depth="2">
+                    <li class="category" id="category-17">
+                          <a
+                class="dropdown-item"
+                href="../../fr/17-vehicula-tempor" data-depth="2"
+                              >
+                                vehicula tempor
+              </a>
+                          </li>
+                    <li class="category" id="category-18">
+                          <a
+                class="dropdown-item"
+                href="../../fr/18-dictum-gravida" data-depth="2"
+                              >
+                                dictum gravida
+              </a>
+                          </li>
+                    <li class="category" id="category-19">
+                          <a
+                class="dropdown-item"
+                href="../../fr/19-tempus-magna" data-depth="2"
+                              >
+                                tempus magna
+              </a>
+                          </li>
+              </ul>
+    
+				<div class="menu-banners">				  
+				  				  
+				</div>
+              </div>
+                          </li>
+              </ul>
+    
+				<div class="menu-banners">				  
+				  					<div class="menu-banner">
+						<div class="menu-banners-inner">
+							<img src="3-0_thumb.jpg" alt="" />
+						</div>
+					</div>
+				  				  
+				</div>
+              </div>
+                          </li>
+                    <li class="category" id="category-6">
+                          <a
+                class="dropdown-item"
+                href="../../fr/6-etruscan" data-depth="0"
+                              >
+                                                                      <span class="float-xs-right hidden-lg-up">
+                    <span data-target="#top_sub_menu_56826" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                      <i class="material-icons add">&#xE145;</i>
+                  	  <i class="material-icons remove">&#xE15B;</i>
+                    </span>
+                  </span>
+                                etruscan 
+              </a>
+                            <div  class="popover sub-menu js-sub-menu collapse" id="top_sub_menu_56826">
+                
+          <ul class="top-menu"  data-depth="1">
+                    <li class="category" id="category-7">
+                          <a
+                class="dropdown-item dropdown-submenu"
+                href="../../fr/7-stationery" data-depth="1"
+                              >
+                                Stationery
+              </a>
+                          </li>
+                    <li class="category" id="category-8">
+                          <a
+                class="dropdown-item dropdown-submenu"
+                href="../../fr/8-home-accessories" data-depth="1"
+                              >
+                                Home Accessories
+              </a>
+                          </li>
+              </ul>
+    
+				<div class="menu-banners">				  
+				  				  
+				</div>
+              </div>
+                          </li>
+                    <li class="category" id="category-9">
+                          <a
+                class="dropdown-item"
+                href="../../fr/9-refrigerators" data-depth="0"
+                              >
+                                refrigerators
+              </a>
+                          </li>
+                    <li class="category" id="category-20">
+                          <a
+                class="dropdown-item"
+                href="../../fr/20-gaming-console" data-depth="0"
+                              >
+                                gaming console
+              </a>
+                          </li>
+                    <li class="category" id="category-21">
+                          <a
+                class="dropdown-item"
+                href="../../fr/21-cantaloupe" data-depth="0"
+                              >
+                                cantaloupe
+              </a>
+                          </li>
+                    <li class="category" id="category-22">
+                          <a
+                class="dropdown-item"
+                href="../../fr/22-microwave" data-depth="0"
+                              >
+                                Microwave
+              </a>
+                          </li>
+                    <li class="category" id="category-23">
+                          <a
+                class="dropdown-item"
+                href="../../fr/23-video-game" data-depth="0"
+                              >
+                                video game
+              </a>
+                          </li>
+                    <li class="category" id="category-24">
+                          <a
+                class="dropdown-item"
+                href="../../fr/24-calculator" data-depth="0"
+                              >
+                                calculator
+              </a>
+                          </li>
+                    <li class="category" id="category-25">
+                          <a
+                class="dropdown-item"
+                href="../../fr/25-media-player" data-depth="0"
+                              >
+                                media player
+              </a>
+                          </li>
+                    <li class="category" id="category-26">
+                          <a
+                class="dropdown-item"
+                href="../../fr/26-nohohon-zoku" data-depth="0"
+                              >
+                                Nohohon Zoku
+              </a>
+                          </li>
+              </ul>
+    			
+    <div class="clearfix"></div>	
+</div>
+<div id="_desktop_cart">
+  <div class="blockcart cart-preview inactive" data-refresh-url="../../fr/module/ps_shoppingcart/ajax">
+    <div class="header blockcart-header dropdown js-dropdown">
+		 
+			<a rel="nofollow" href="../../fr/panier@action=show" class="cart-icon"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 							
+				<span class="cart-title">my cart</span>
+				<span class="cart-products-count">
+									0 item
+								
+				</span>
+				<span class="cart-item-count">				
+					<span class="cart-item">0</span>			
+				</span>				
+			</a>
+		 
+		
+	      </div>
+  </div>
+</div>
+<div id="pstoffercmsblock" class="offer-banner hidden-md-down">
+<div class="offer_block_wrapper">
+
+					
+			<div class="pst-offer-block">
+			<div class="header-offer-block">
+			<span class="offer-image"><img src="../../modules/pst_offercmsblock/views/img/top-offer.svg" alt="" /></span>
+			<div class="offer-inner">
+			<span class="offer-title">order over $90</span>
+			<span class="offer-desc">today big deal offer</span>
+			</div>
+			</div>
+			</div>
+			
+			
+			
+
+	</div>
+</div>
+		
+			<div id="mobile_top_menu_wrapper" class="row hidden-lg-up" style="display:none;">
+					<div class="js-top-menu mobile" id="_mobile_top_menu"></div>
+					<div class="js-top-menu mobile" id="_mobile_vertical_menu"></div>
+					<div class="js-top-menu-bottom">				
+						<div id="_mobile_pst_categorycmsblock"></div>		
+						<div id="_mobile_currency_selector"></div>
+						<div id="_mobile_language_selector"></div>
+						<div id="_mobile_contact_link"></div>
+					</div>
+			</div>
+	
+	</div>
+	</div>	
+
+<div class="nav-bar">
+  <div class="container">
+  	
+
+<div class="vertical-menu js-top-menu position-static hidden-md-down"  id="_desktop_vertical_menu">
+		<div class="block-title">
+		<div class="cat-title-wrapper">
+			<div class="cat-title">shop by categories</div>
+	    </div>
+			<div class="title-arrow"></div>
+		</div>
+        
+  <ul class="top-vertical-menu block_content" id="top-vertical-menu" data-depth="0"><li class="category" id="pstcategory-3"><a href="../../fr/3-our-store" class="dropdown-item" data-depth="0" >			  <span class="float-xs-right hidden-lg-up"><span data-target="#top_sub_menu_83388" data-toggle="collapse" class="navbar-toggler collapse-icons"><i class="material-icons add">&#xE145;</i><i class="material-icons remove">&#xE15B;</i></span></span>our store</a>			  <div  class="popover sub-menu js-sub-menu collapse" id="top_sub_menu_83388">
+  <ul class="top-vertical-menu block_content"  data-depth="1"><li class="category" id="pstcategory-4"><a href="../../fr/4-audio-video" class="dropdown-item dropdown-submenu" data-depth="1" >			  <span class="float-xs-right hidden-lg-up"><span data-target="#top_sub_menu_41407" data-toggle="collapse" class="navbar-toggler collapse-icons"><i class="material-icons add">&#xE145;</i><i class="material-icons remove">&#xE15B;</i></span></span>audio &amp; video</a>			  <div  class="collapse" id="top_sub_menu_41407">
+  <ul class="top-vertical-menu block_content"  data-depth="2"><li class="category" id="pstcategory-11"><a href="../../fr/11-magni-dolores" class="dropdown-item" data-depth="2" >magni dolores</a></li><li class="category" id="pstcategory-12"><a href="../../fr/12-rem-aperiam" class="dropdown-item" data-depth="2" >rem aperiam</a></li><li class="category" id="pstcategory-13"><a href="../../fr/13-ullamco-laboris" class="dropdown-item" data-depth="2" >ullamco laboris </a></li></ul><div class="menu-images-container"></div></div></li><li class="category" id="pstcategory-5"><a href="../../fr/5-headphones" class="dropdown-item dropdown-submenu" data-depth="1" >			  <span class="float-xs-right hidden-lg-up"><span data-target="#top_sub_menu_68892" data-toggle="collapse" class="navbar-toggler collapse-icons"><i class="material-icons add">&#xE145;</i><i class="material-icons remove">&#xE15B;</i></span></span>headphones</a>			  <div  class="collapse" id="top_sub_menu_68892">
+  <ul class="top-vertical-menu block_content"  data-depth="2"><li class="category" id="pstcategory-14"><a href="../../fr/14-cumque-impedit" class="dropdown-item" data-depth="2" >cumque impedit</a></li><li class="category" id="pstcategory-15"><a href="../../fr/15-accusamus-iusto" class="dropdown-item" data-depth="2" >accusamus iusto	</a></li><li class="category" id="pstcategory-16"><a href="../../fr/16-ridiculus-mus" class="dropdown-item" data-depth="2" >ridiculus mus</a></li></ul><div class="menu-images-container"></div></div></li><li class="category" id="pstcategory-10"><a href="../../fr/10-speakers" class="dropdown-item dropdown-submenu" data-depth="1" >			  <span class="float-xs-right hidden-lg-up"><span data-target="#top_sub_menu_92936" data-toggle="collapse" class="navbar-toggler collapse-icons"><i class="material-icons add">&#xE145;</i><i class="material-icons remove">&#xE15B;</i></span></span>speakers</a>			  <div  class="collapse" id="top_sub_menu_92936">
+  <ul class="top-vertical-menu block_content"  data-depth="2"><li class="category" id="pstcategory-17"><a href="../../fr/17-vehicula-tempor" class="dropdown-item" data-depth="2" >vehicula tempor</a></li><li class="category" id="pstcategory-18"><a href="../../fr/18-dictum-gravida" class="dropdown-item" data-depth="2" >dictum gravida</a></li><li class="category" id="pstcategory-19"><a href="../../fr/19-tempus-magna" class="dropdown-item" data-depth="2" >tempus magna</a></li></ul><div class="menu-images-container"></div></div></li></ul><div class="menu-images-container"><img src="3-0_thumb.jpg" alt="banner-1"></div></div></li><li class="category" id="pstcategory-9"><a href="../../fr/9-refrigerators" class="dropdown-item" data-depth="0" >refrigerators</a></li><li class="category" id="pstcategory-20"><a href="../../fr/20-gaming-console" class="dropdown-item" data-depth="0" >gaming console</a></li><li class="category" id="pstcategory-21"><a href="../../fr/21-cantaloupe" class="dropdown-item" data-depth="0" >cantaloupe</a></li><li class="category" id="pstcategory-22"><a href="../../fr/22-microwave" class="dropdown-item" data-depth="0" >Microwave</a></li><li class="category" id="pstcategory-23"><a href="../../fr/23-video-game" class="dropdown-item" data-depth="0" >video game</a></li><li class="category" id="pstcategory-24"><a href="../../fr/24-calculator" class="dropdown-item" data-depth="0" >calculator</a></li><li class="category" id="pstcategory-25"><a href="../../fr/25-media-player" class="dropdown-item" data-depth="0" >media player</a></li><li class="category" id="pstcategory-26"><a href="../../fr/26-nohohon-zoku" class="dropdown-item" data-depth="0" >Nohohon Zoku</a></li></ul>
+</div>
+<!-- Block search module -->
+<div id="_desktop_st_search_block_top" class="block exclusive st_search_block_top">
+	<!--<h4 class="title_block">Search</h4>-->
+	<form method="get" action="https://demos.thementic.com/prestashop/PRS01/PRS0100029/fr/index.php?controller=productsearch" id="stsearchtopbox">
+		<input type="hidden" name="fc" value="module" />
+		<input type="hidden" name="module" value="stproductsearch" />
+		<input type="hidden" name="controller" value="productsearch" />
+		    <!--	<label for="search_query_block">Search products:</label>-->
+		<div class="block_content clearfix">
+						
+			<div class="product_search">
+			<div class="list-cate-wrapper">
+				<input id="stsearchtop-cate-id" name="cate" value="" type="hidden">
+				<a id="dropdownListCateTop" class="select-title" rel="nofollow" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span>All Categories</span>
+					<i class="material-icons pull-xs-right">keyboard_arrow_down</i>
+				</a>
+				<div class="list-cate dropdown-menu" aria-labelledby="dropdownListCateTop">
+					<a href="#" data-cate-id="" data-cate-name="All Categories" class="cate-item active" >All Categories</a>
+									<a href="#" data-cate-id="2" data-cate-name="Accueil" class="cate-item" >Accueil</a>
+									<a href="#" data-cate-id="3" data-cate-name="our store" class="cate-item" >our store</a>
+									<a href="#" data-cate-id="6" data-cate-name="etruscan " class="cate-item" >etruscan </a>
+									<a href="#" data-cate-id="9" data-cate-name="refrigerators" class="cate-item" >refrigerators</a>
+									<a href="#" data-cate-id="20" data-cate-name="gaming console" class="cate-item" >gaming console</a>
+									<a href="#" data-cate-id="21" data-cate-name="cantaloupe" class="cate-item" >cantaloupe</a>
+									<a href="#" data-cate-id="22" data-cate-name="Microwave" class="cate-item" >Microwave</a>
+									<a href="#" data-cate-id="23" data-cate-name="video game" class="cate-item" >video game</a>
+									<a href="#" data-cate-id="24" data-cate-name="calculator" class="cate-item" >calculator</a>
+									<a href="#" data-cate-id="25" data-cate-name="media player" class="cate-item" >media player</a>
+									<a href="#" data-cate-id="26" data-cate-name="Nohohon Zoku" class="cate-item" >Nohohon Zoku</a>
+									<a href="#" data-cate-id="4" data-cate-name="audio &amp; video" class="cate-item" >audio &amp; video</a>
+									<a href="#" data-cate-id="7" data-cate-name="Stationery" class="cate-item" >Stationery</a>
+									<a href="#" data-cate-id="5" data-cate-name="headphones" class="cate-item" >headphones</a>
+									<a href="#" data-cate-id="8" data-cate-name="Home Accessories" class="cate-item" >Home Accessories</a>
+									<a href="#" data-cate-id="10" data-cate-name="speakers" class="cate-item" >speakers</a>
+									<a href="#" data-cate-id="11" data-cate-name="magni dolores" class="cate-item" >magni dolores</a>
+									<a href="#" data-cate-id="14" data-cate-name="cumque impedit" class="cate-item" >cumque impedit</a>
+									<a href="#" data-cate-id="17" data-cate-name="vehicula tempor" class="cate-item" >vehicula tempor</a>
+									<a href="#" data-cate-id="12" data-cate-name="rem aperiam" class="cate-item" >rem aperiam</a>
+									<a href="#" data-cate-id="15" data-cate-name="accusamus iusto	" class="cate-item" >accusamus iusto	</a>
+									<a href="#" data-cate-id="18" data-cate-name="dictum gravida" class="cate-item" >dictum gravida</a>
+									<a href="#" data-cate-id="13" data-cate-name="ullamco laboris " class="cate-item" >ullamco laboris </a>
+									<a href="#" data-cate-id="16" data-cate-name="ridiculus mus" class="cate-item" >ridiculus mus</a>
+									<a href="#" data-cate-id="19" data-cate-name="tempus magna" class="cate-item" >tempus magna</a>
+								</div>
+			</div>
+			<input class="search_query form-control grey" type="text" id="st_search_query_top" name="search_query" value="" placeholder="Search here..." />
+			</div>
+			
+			<button type="submit" id="st_search_top_button" class="btn btn-default button button-small">search</button> 
+		</div>
+	</form>
+</div>
+<script type="text/javascript">
+	var blocksearch_type = 'top';
+</script>
+<!-- /Block search module -->
+<div id="_desktop_user_info">
+  <div class="pst_userinfotitle"><span class="user-info-icon">Mon compte</span><i class="material-icons expand-more hidden-md-down">&#xE5CF;</i></div>
+  <div class="user-info">
+          <a
+        href="../../fr/mon-compte"
+        title="Connectez-vous à votre compte client"
+        rel="nofollow"
+      >
+        <i class="material-icons">&#xE899;</i>
+        <span class="sign-in">Sign in</span>
+      </a>
+      </div>
+</div>
+  </div>
+</div>        
+      </header>
+
+      
+        
+<aside id="notifications">
+  <div class="container">
+    
+    
+    
+      </div>
+</aside>
+      
+     
+
+		<div class="container">	
+
+	 
+		
+
+	   
+		<nav data-depth="1" class="breadcrumb hidden-sm-down">
+  <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+          
+      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="../../fr/default.htm">
+          <span itemprop="name">Accueil</span>
+        </a>
+        <meta itemprop="position" content="1">
+      </li>
+      
+      </ol>
+</nav>
+	  	
+	  
+	  <section id="wrapper">
+                 			 
+          <div id="columns_inner">
+		  
+
+          
+  <div id="content-wrapper">
+    
+    
+
+  <section id="main">
+
+    
+      
+        <header class="page-header">
+          <h1>
+  La page que vous cherchez n&#039;a pas été trouvée.
+</h1>
+        </header>
+      
+    
+
+    
+  <section id="content" class="page-content page-not-found">
+  
+
+    <h4>Veuillez nous excuser pour le désagrément.</h4>
+    <p>Effectuez une nouvelle recherche</p>
+
+    
+      <!-- Block search module TOP -->
+<div id="_desktop_search_widget" class="col-lg-1 col-md-5 col-sm-12 search-widget" data-search-controller-url="../../fr/recherche">
+	<span class="search_button hidden-lg-up"></span>
+	<div class="searchtoggle">            
+	<form method="get" action="//demos.thementic.com/prestashop/PRS01/PRS0100029/fr/recherche">
+		<input type="hidden" name="controller" value="search">
+		<input type="text" name="s" value="" placeholder="Rechercher">
+		<button type="submit">			
+			<span class="pst-search-icon"></span>
+		</button>
+	</form>
+	</div>
+</div>
+<!-- /Block search module TOP -->
+
+    
+
+    
+      
+    
+
+  
+</section>
+
+
+    
+      <footer class="page-footer">
+        
+          <!-- Footer content -->
+        
+      </footer>
+    
+
+  </section>
+
+
+    
+  </div>
+
+
+          
+		  </div>
+             
+      </section>
+	
+	
+	</div>	
+	
+	
+      <footer id="footer">
+        
+          <div class="footer-before">
+
+	<div class="container">	
+			
+				<div class="block_newsletter-wrapper">
+<div class="footer-logo"><!--<span class="footer-logo-img">footer-logo</span>--></div>
+<div class="block_newsletter"> 	
+    <div class="newsletter-title col-xs-12 col-sm-12 col-md-12 col-lg-7 ">
+       <span class="pst-newsletter-icon"></span>
+		<div class="newsletter-details">
+			<span class="title">subscribe to newsletter</span>
+						<span class="newsletter-desc">Get the best tips and news delivered directly to your inbox.</span>
+					</div>
+	</div>
+    <div class="newsletter-block col-xs-12 col-sm-12 col-md-12 col-lg-5">
+      <form action="https://demos.thementic.com/prestashop/PRS01/PRS0100029/fr/#footer" method="post">
+        <div class="row">
+          <div class="col-xs-12 email-wrapper">
+		  <div class="block_newsletter_inner">                       
+              <input
+                name="email"
+                type="text"
+                value=""
+                placeholder="Votre adresse e-mail"
+              >          
+			<input
+              class="btn btn-primary float-xs-right"
+              name="submitNewsletter"
+              type="submit"
+              value="S’abonner"
+            >
+            <input
+              class="btn btn-primary ok-btn float-xs-right"
+              name="submitNewsletter"
+              type="submit"
+              value="ok"
+            >
+            <input type="hidden" name="action" value="0">
+            <div class="clearfix"></div>
+			<div class="col-xs-12 newsletter-alert">
+												
+							</div>
+			</div>
+          </div>
+
+        </div>
+      </form>
+    </div>
+</div>
+</div>
+
+			
+	</div>
+		
+</div>
+<div class="footer-container">
+  <div class="container">
+      
+      <div class="block-contact col-md-3 col-lg-3 links wrapper">
+  
+   		<h3 class="text-uppercase block-contact-title hidden-sm-down"><a href="../../fr/magasins">quick information</a></h3>
+      
+		<div class="title clearfix hidden-md-up" data-target="#block-contact_list" data-toggle="collapse">
+		  <span class="h3">quick information</span>
+		  <span class="float-xs-right">
+			  <span class="navbar-toggler collapse-icons">
+				<i class="material-icons add">&#xE313;</i>
+				<i class="material-icons remove">&#xE316;</i>
+			  </span>
+		  </span>
+		</div>
+	  
+	  <ul id="block-contact_list" class="collapse">
+  <li><div class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i></div><div class="data">Ecmart Electronics Store<br />Puffin Street, New York United States<br />United States</div></li>
+                          <li>
+        <div class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></div>
+        <div class="data">
+                Écrivez-nous : <span>support@company.com</span>
+        </div>
+        </li>
+        </ul>
+
+  
+
+  <div class="block-social links">
+	 <span class="h3 hidden-sm-down">follow our social</span>
+	 	<div class="title clearfix hidden-md-up" data-target="#block-social_list" data-toggle="collapse">
+		  <span class="h3">follow our social</span>
+		  <span class="float-xs-right">
+			  <span class="navbar-toggler collapse-icons">
+				<i class="material-icons add">&#xE313;</i>
+				<i class="material-icons remove">&#xE316;</i>
+			  </span>
+		  </span>
+		</div>
+	 		
+	<ul id="block-social_list" class="collapse">
+              <li class="facebook">
+		<div class="social-item-inner">
+		<a href="#" target="_self">
+		<div class="social-right">Facebook</div>
+		</a>
+		</div>
+		</li>
+              <li class="twitter">
+		<div class="social-item-inner">
+		<a href="#" target="_self">
+		<div class="social-right">Twitter</div>
+		</a>
+		</div>
+		</li>
+              <li class="youtube">
+		<div class="social-item-inner">
+		<a href="#" target="_self">
+		<div class="social-right">YouTube</div>
+		</a>
+		</div>
+		</li>
+              <li class="instagram">
+		<div class="social-item-inner">
+		<a href="#" target="_self">
+		<div class="social-right">Instagram</div>
+		</a>
+		</div>
+		</li>
+          </ul>
+  </div>
+
+
+  
+</div>  <div class="col-md-12 col-lg-3 links block links">
+    
+	   <h3 class="h3 hidden-sm-down">information</h3>
+            <div class="title block_title h3 clearfix hidden-md-up " data-target="#footer_sub_menu_57017" data-toggle="collapse">
+	  
+        <span class="">information</span>
+        <span class="float-xs-right hidden-lg-up">
+          <span class="navbar-toggler collapse-icons">
+            <i class="material-icons add">&#xE313;</i>
+            <i class="material-icons remove">&#xE316;</i>
+          </span>
+        </span>
+      </div>
+      <ul id="footer_sub_menu_57017" class="collapse block_content">
+                  <li>
+            <a
+                id="link-cms-page-1-1"
+                class="cms-page-link"
+                href="../../fr/content/1-delivery"
+                title="Our terms and conditions of delivery">
+              Delivery
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-2-1"
+                class="cms-page-link"
+                href="../../fr/content/2-legal-notice"
+                title="Legal notice">
+              Legal Notice
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-3-1"
+                class="cms-page-link"
+                href="../../fr/content/3-terms-and-conditions-of-use"
+                title="Our terms and conditions of use">
+              Terms and conditions of use
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-4-1"
+                class="cms-page-link"
+                href="../../fr/content/4-about-us"
+                title="Learn more about us">
+              Our Portfolio
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-5-1"
+                class="cms-page-link"
+                href="../../fr/content/5-secure-payment"
+                title="Our secure payment method">
+              Secure payment
+            </a>
+          </li>
+              </ul>
+    </div>
+  <div class="col-md-12 col-lg-3 links block links">
+    
+	   <h3 class="h3 hidden-sm-down">my account</h3>
+            <div class="title block_title h3 clearfix hidden-md-up " data-target="#footer_sub_menu_67004" data-toggle="collapse">
+	  
+        <span class="">my account</span>
+        <span class="float-xs-right hidden-lg-up">
+          <span class="navbar-toggler collapse-icons">
+            <i class="material-icons add">&#xE313;</i>
+            <i class="material-icons remove">&#xE316;</i>
+          </span>
+        </span>
+      </div>
+      <ul id="footer_sub_menu_67004" class="collapse block_content">
+                  <li>
+            <a
+                id="link-product-page-prices-drop-2"
+                class="cms-page-link"
+                href="../../fr/promotions"
+                title="Our special products">
+              Promotions
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-product-page-new-products-2"
+                class="cms-page-link"
+                href="../../fr/nouveaux-produits"
+                title="Nos nouveaux produits">
+              Nouveaux produits
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-product-page-best-sales-2"
+                class="cms-page-link"
+                href="../../fr/meilleures-ventes"
+                title="Nos meilleures ventes">
+              Meilleures ventes
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-static-page-contact-2"
+                class="cms-page-link"
+                href="../../fr/nous-contacter"
+                title="Utiliser le formulaire pour nous contacter">
+              Contactez-nous
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-static-page-sitemap-2"
+                class="cms-page-link"
+                href="../../fr/plan du site"
+                title="Vous êtes perdu ? Trouvez ce que vous cherchez">
+              sitemap
+            </a>
+          </li>
+              </ul>
+    </div>
+  <div class="col-md-12 col-lg-3 links block links">
+    
+	   <h3 class="h3 hidden-sm-down">quick links</h3>
+            <div class="title block_title h3 clearfix hidden-md-up " data-target="#footer_sub_menu_93170" data-toggle="collapse">
+	  
+        <span class="">quick links</span>
+        <span class="float-xs-right hidden-lg-up">
+          <span class="navbar-toggler collapse-icons">
+            <i class="material-icons add">&#xE313;</i>
+            <i class="material-icons remove">&#xE316;</i>
+          </span>
+        </span>
+      </div>
+      <ul id="footer_sub_menu_93170" class="collapse block_content">
+                  <li>
+            <a
+                id="link-cms-page-4-3"
+                class="cms-page-link"
+                href="../../fr/content/4-about-us"
+                title="Learn more about us">
+              Our Portfolio
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-static-page-contact-3"
+                class="cms-page-link"
+                href="../../fr/nous-contacter"
+                title="Utiliser le formulaire pour nous contacter">
+              Contactez-nous
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-static-page-stores-3"
+                class="cms-page-link"
+                href="../../fr/magasins"
+                title="">
+              Magasins
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-static-page-authentication-3"
+                class="cms-page-link"
+                href="../../fr/connexion"
+                title="">
+              Identifiant
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-static-page-my-account-3"
+                class="cms-page-link"
+                href="../../fr/mon-compte"
+                title="">
+              Mon compte
+            </a>
+          </li>
+              </ul>
+    </div>
+  
+      	   	    
+  </div> 
+  </div>
+	  <div class="footer-bottom">
+	  <div class="container">
+	  <div class="row">
+      <div class="col-md-12 footer-after-wrapper">	        
+		<div class="footer-after">
+			<div class="copyright">
+			
+			 <a class="_blank" href="../../../../../../www.prestashop.com/default.htm" target="_self">
+              © 2019 - Logiciel e-commerce par PrestaShop™
+			</a>
+			
+			</div>
+			
+			<div class="footer-logo">
+			<span class="footer-logo-img">footer-logo</span>
+			</div>
+			
+			
+			
+			
+				<div id="pstpaymentcmsblock">
+<div class="payment-block">	
+<!--<span class="h3">payment method</span>-->
+					
+			<ul class="payment-block-inner">
+				<li class="visa icon"><a href="#"><img src="../../modules/pst_paymentcmsblock/views/img/visa.png" alt="" /></a></li>
+				<li class="paypal icon"><a href="#"><img src="../../modules/pst_paymentcmsblock/views/img/paypal.png" alt="" /></a></li>
+				<li class="discover icon"><a href="#"><img src="../../modules/pst_paymentcmsblock/views/img/discover.png" alt="" /></a></li>
+				<li class="mastercard icon"><a href="#"><img src="../../modules/pst_paymentcmsblock/views/img/mastercard.png" alt="" /></a></li>
+				<li class="american-express icon"><a href="#"><img src="../../modules/pst_paymentcmsblock/views/img/american-express.png" alt="" /></a></li>
+			</ul>
+
+		</div>	
+</div>
+
+			
+		</div>
+      </div>
+	  </div>
+	  </div>
+	  </div>
+<a class="top_button" href="#" style="default.htm">&nbsp;</a>
+<script type="text/javascript" src="../../../../../../https@themera.net/embed/themera.js@id=30408"></script>        
+      </footer>
+
+    </main>
+
+    
+        <script type="text/javascript" src="../../themes/core.js" ></script>
+  <script type="text/javascript" src="../../themes/ecmart/assets/js/theme.js" ></script>
+  <script type="text/javascript" src="../../modules/psproductcountdown/views/js/underscore.min.js" ></script>
+  <script type="text/javascript" src="../../modules/psproductcountdown/views/js/jquery.countdown.min.js" ></script>
+  <script type="text/javascript" src="../../modules/psproductcountdown/views/js/psproductcountdown.js" ></script>
+  <script type="text/javascript" src="../../modules/productcomments/js/jquery.rating.pack.js" ></script>
+  <script type="text/javascript" src="../../modules/productcomments/js/jquery.textareaCounter.plugin.js" ></script>
+  <script type="text/javascript" src="../../modules/productcomments/js/productcomments.js" ></script>
+  <script type="text/javascript" src="../../js/jquery/ui/jquery-ui.min.js" ></script>
+  <script type="text/javascript" src="../../js/jquery/plugins/fancybox/jquery.fancybox.js" ></script>
+  <script type="text/javascript" src="../../modules/ps_searchbar/ps_searchbar.js" ></script>
+  <script type="text/javascript" src="../../modules/ps_shoppingcart/ps_shoppingcart.js" ></script>
+  <script type="text/javascript" src="../../modules/stproductsearch/js/jquery.autocomplete_productsearch.js" ></script>
+  <script type="text/javascript" src="../../modules/stproductsearch/js/stsearch.js" ></script>
+  <script type="text/javascript" src="../../modules/pst_categoryslider/views/js/pst_categoryslider.js" ></script>
+  <script type="text/javascript" src="../../modules/psblog/views/js/lightbox-2.6.min.js" ></script>
+  <script type="text/javascript" src="../../modules/pst_imageslider/views/js/jquery.flexslider-min.js" ></script>
+  <script type="text/javascript" src="../../themes/ecmart/assets/js/owl.carousel.js" ></script>
+  <script type="text/javascript" src="../../themes/ecmart/assets/js/totalstorage.js" ></script>
+  <script type="text/javascript" src="../../themes/ecmart/assets/js/custom.js" ></script>
+
+
+    
+
+    
+    
+    
+  </body>
+
+</html>

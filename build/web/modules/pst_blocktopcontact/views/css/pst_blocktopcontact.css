@@ -1,0 +1,32 @@
+/* Css for block top contact start */
+#pstblocktopcontact .pst-contact-item {
+	float:left
+}
+#pstblocktopcontact .pst-contact-item:first-child {
+    margin: 0 40px 0 0;
+}
+#pstblocktopcontact .pst-contact-item .fa{
+    font-size: 16px;
+    line-height: 22px;
+    float: left;
+    color: #7E7E7E;
+}
+#pstblocktopcontact .contact-title {
+	font-size: 12px;
+	font-weight: 400;
+	color: #777777;
+}
+#pstblocktopcontact .contact-text{
+	color: #000000;
+	text-transform: capitalize;
+	padding: 0 5px 0 0;
+}
+#pstblocktopcontact ul {
+    margin: 0;
+}
+@media (max-width: 1299px) {
+#pstblocktopcontact .pst-contact-item:first-child {
+    margin: 0 15px 0 0;
+}
+}
+/* Css for block top contact end */

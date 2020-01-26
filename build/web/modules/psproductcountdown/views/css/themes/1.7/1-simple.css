@@ -1,0 +1,77 @@
+#products .psproductcountdown .count.curr, #products .psproductcountdown .count.bottom,
+.psproductcountdown .count.curr, .psproductcountdown .count.bottom {
+    display: none;
+}
+.psproductcountdown .hidden {
+    display: none;
+}
+
+#product .psproductcountdown {
+    width: 280px;
+    padding: 10px 0 0 0;
+    text-align: center;
+    background: rgba(255,255,255,0.5);
+    box-shadow: 2px 2px 11px 0px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+    display: none;
+}
+
+.pspc-main lable {font-size:14px;color:#000;letter-spacing:0.039em;}
+.pst-hometabcontent .products .product-miniature .pspc-main .time{
+ 	height: 50px;
+    width: 50px;
+	margin-bottom:15px;
+}
+.pst-hometabcontent .products .product-miniature .pspc-main .count{
+	line-height: 23px;
+}
+.pspc-main .time {
+    text-align: left;
+    position: relative;
+    height: 45px;
+    width: 45px;
+	margin:0 10px 0 0;
+    float: none;
+	display:inline-block;
+	vertical-align:top;
+	font-size: 17px;
+	font-weight:600;
+	background:#FFD92E;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-khtml-border-radius:5px;
+	-moz-border-radius:5px;
+}
+
+#products .pspc-main .count,
+.pspc-main .count {   
+    display: block;
+    line-height: 30px;
+    text-align: center;
+    width: 100%;
+    padding: 8px 0 0;
+    margin: 0 0 10px;
+    bottom: 0;
+}
+.pspc-main .seconds .count,
+#products .pspc-main .seconds .count {
+    color: #f13340;
+}
+.pspc-main .label {
+	display: block;
+    width: 100%;
+    padding: 0;
+    text-align: center;
+    text-transform: uppercase;
+    color: #777777;
+    font-size: 11px;
+	font-weight:400;
+}
+
+@media (max-width: 479px) {
+    
+    .pspc-main .time {
+        /*width: 36px;*/
+    }
+   
+}

@@ -1,0 +1,178 @@
+/* Home Service block start */
+#pst_serviceblock {
+    clear: both;
+}
+#pst_serviceblock .service-title {    
+    text-transform: uppercase;
+    display: block;
+    font-size: 12px;
+    font-weight: 500;
+	transition: all 300ms ease;
+	-webkit-transition: all 300ms ease;
+	-moz-transition: all 300ms ease;
+	-ms-transition: all 300ms ease;
+	-o-transition: all 300ms ease;
+}
+#pst_serviceblock .service-item-inner:hover .service-title { 
+	color: #FFD92E;
+	transition: all 300ms ease;
+	-webkit-transition: all 300ms ease;
+	-moz-transition: all 300ms ease;
+	-ms-transition: all 300ms ease;
+	-o-transition: all 300ms ease;
+}
+#pst_serviceblock .service-item:after{
+	content: "";
+	border-radius: 50%;
+	background-color: #e8e8e8;
+	position: absolute;
+	display: block;
+	left: auto;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	height: auto;
+	width: 1px;
+	z-index: 1;
+}
+#pst_serviceblock .service-item:last-child:after{
+	display:none;	
+}
+#pst_serviceblock  .image-block{
+    display: inline-block;
+	vertical-align:top;
+    margin: 0 10px 0 0;
+}
+#pst_serviceblock  .service-right{
+    display: inline-block;
+    vertical-align: top;
+    color: #000000;
+    text-align: center;
+    margin: 7px 0 0;
+}
+.pst-service-wrapper ul{margin:0;}
+#pst_serviceblock .service-item-inner{
+    display: inline-block;
+    vertical-align: top;
+}
+#pst_serviceblock .pst-service-wrapper {
+    overflow: hidden;
+    text-align: center;
+    padding: 62px 0;
+}
+#pst_serviceblock .service-item .image-icon{
+    background-image: url(../img/service-1.svg);
+    background-repeat: no-repeat;
+    background-size: 35px;
+    background-position: center;
+    height: 40px;
+    width: 40px;
+    margin: 0 auto;
+    font-size: 0;
+    display: block;
+    transition: all 200ms ease;
+    -webkit-transition: all 200ms ease;
+    -moz-transition: all 200ms ease;
+    -ms-transition: all 200ms ease;
+    -o-transition: all 200ms ease;
+}
+#pst_serviceblock .service-item:hover .image-icon{
+	animation-duration:0.8s;
+	animation-timing-function:linear;
+	animation-name:"flash";
+	
+
+	webkit-animation-duration: 0.8s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-name: "flash";
+
+
+	-moz-animation-duration: 0.8s;
+	-moz-animation-timing-function: linear;
+	-moz-animation-name: "flash";
+	
+	transition: all 300ms ease;
+	-webkit-transition: all 300ms ease;
+	-moz-transition: all 300ms ease;
+	-ms-transition: all 300ms ease;
+	-o-transition: all 300ms ease;
+}
+@keyframes flash {
+  from, 50%, to {
+    opacity: 1;
+  }
+
+  25%, 75% {
+    opacity: 0;
+  }
+}
+
+#pst_serviceblock .service-item:nth-child(1) .image-icon {
+	background-image: url(../img/service-1.svg);
+	background-size: 37px;
+}
+#pst_serviceblock .service-item:nth-child(2) .image-icon {
+    background-image: url(../img/service-2.svg);
+}
+#pst_serviceblock .service-item:nth-child(3) .image-icon {
+    background-image: url(../img/service-3.svg);
+}
+#pst_serviceblock .service-item:nth-child(4) .image-icon {
+	background-image: url(../img/service-4.svg);
+	background-size: 40px;
+}
+#pst_serviceblock .service-item:nth-child(1) .service-item-inner:hover .image-icon {
+    background-image: url(../img/service-1-hover.svg);
+}
+#pst_serviceblock .service-item:nth-child(2) .service-item-inner:hover .image-icon {
+    background-image: url(../img/service-2-hover.svg);
+}
+#pst_serviceblock .service-item:nth-child(3) .service-item-inner:hover .image-icon {
+    background-image: url(../img/service-3-hover.svg);
+}
+#pst_serviceblock .service-item:nth-child(4) .service-item-inner:hover .image-icon {
+    background-image: url(../img/service-4-hover.svg);
+}
+@media (max-width: 1199px){
+	#pst_serviceblock .image-block{
+		display: block;
+		margin: 0 0 5px;
+	}
+}
+@media (max-width: 991px){
+	#pst_serviceblock .service-item{
+		margin:0 0 50px;
+	}
+	#pst_serviceblock .pst-service-wrapper{
+		padding: 50px 0 20px;
+	}
+	#pst_serviceblock .service-item:nth-child(odd):after{
+		content: "";
+		border-radius: 50%;
+		background-color: #e8e8e8;
+		position: absolute;
+		display: block;
+		left: auto;
+		right: 0;
+		top: 0;
+		bottom: 0;
+		height: auto;
+		width: 1px;
+		z-index: 1;
+	}
+	#pst_serviceblock .service-item:after{
+		display:none;
+	}
+}
+@media (max-width: 767px){
+	#pst_serviceblock .service-item{
+		width:100%;
+	}
+	#pst_serviceblock .service-item:nth-child(odd):after{
+		display:none;
+	}
+}
+@media (max-width: 479px){
+
+}    
+/* Home Service block end */

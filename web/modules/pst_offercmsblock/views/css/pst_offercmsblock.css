@@ -1,0 +1,49 @@
+
+#pstoffercmsblock {
+	padding: 0;
+	overflow:hidden;
+}
+#pstoffercmsblock {
+    float: right;
+    margin: 13px 50px 0;
+}
+#pstoffercmsblock .header-offer-block{
+    text-transform: capitalize;
+    position: relative;
+    text-align: left;
+}
+#pstoffercmsblock .offer-image{
+    margin: 0 5px 0 0;
+    display: inline-block;
+    vertical-align: top;
+}
+#pstoffercmsblock .header-offer-block .offer-image img{  
+	height: 35px;
+	width: 35px;
+}
+#pstoffercmsblock .offer-inner{
+    display: inline-block;
+    vertical-align: top;
+    line-height: 20px;
+}
+#pstoffercmsblock .header-offer-block .offer-title{
+    display: block;
+    font-size: 13px;
+    font-weight: 500;
+    color: #ffffff;
+}
+#pstoffercmsblock .header-offer-block .offer-desc{
+	font-size: 11px;
+	font-weight: 400;
+	color: #FFD92E;
+}
+@media (max-width: 979px) {
+#pstoffercmsblock{
+	display: none;
+}
+#pstoffercmsblock .header-offer-block{
+	float:none;
+	display: inline-block;
+	vertical-align: top;
+}
+}

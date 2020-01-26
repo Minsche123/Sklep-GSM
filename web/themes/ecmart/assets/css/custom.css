@@ -1,0 +1,185 @@
+/********************************************************
+			Template Custom Styles
+********************************************************/
+.owl-carousel {
+  display: none;
+  position: relative;
+  float: left;
+  width: 100%; 
+  -ms-touch-action: pan-y;
+}
+.owl-carousel .owl-wrapper {
+  display: none;
+  position: relative;
+  -webkit-transform: translate3d(0px, 0px, 0px);
+}
+.owl-carousel .owl-wrapper:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+.owl-carousel .owl-wrapper-outer {
+  overflow: hidden;
+  position: relative;
+  float: left;
+  width: 100%;
+}
+.owl-carousel .owl-wrapper-outer.autoHeight {
+  -webkit-transition: height 500ms ease-in-out;
+  -moz-transition: height 500ms ease-in-out;
+  -ms-transition: height 500ms ease-in-out;
+  -o-transition: height 500ms ease-in-out;
+  transition: height 500ms ease-in-out;
+}
+.owl-carousel .owl-item {
+  float: left;
+}
+.owl-carousel .owl-item .manu_image a {
+  display: inline-block;
+}
+.owl-carousel .owl-item .manu_image a img {
+  max-width: 100%;
+}
+.owl-carousel .owl-item:hover a img {
+  border-color: blue;
+}
+.owl-carousel .owl-wrapper,
+.owl-carousel .owl-item {
+  /* fix */
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  text-align: center;
+}
+.owl-page.active,.owl-page:hover{
+    background-color: #000000;
+    cursor: default;
+}
+.owl-page {
+	background-color:#808080;
+    border-radius: 50%;
+    cursor: pointer;
+    display: inline-block;
+    height: 12px;
+    margin: 0 5px;
+    width: 12px;
+}
+.owl-pagination{text-align:center;}
+/* mouse grab icon */
+.grabbing {
+  cursor: url("../img/themeimage/grabbing.png") 8 8, move;
+}
+ 
+.customNavigation,.owl-buttons {
+	z-index: 959;
+	direction: ltr !important;
+	position:absolute;
+	left:auto;
+	right:0;
+	top:0;
+	bottom:auto;
+}
+.customNavigation .btn, .owl-buttons div { 
+    padding: 0;
+    height:30px;
+    width:30px;
+	background-color:transparent;
+	background-size:20px;
+    cursor: pointer;
+    overflow: hidden;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    font-size: 0;
+	display:inline-block;
+	vertical-align:top;
+}
+.customNavigation a.next, .owl-buttons .owl-next {
+    background-image: url("../img/themeimage/pst-prod-next.svg") !important;
+    background-repeat: no-repeat;
+    background-position:center;
+	right:0;
+}
+.customNavigation a.next:hover, .owl-buttons .owl-next:hover{
+    background-image: url("../img/themeimage/pst-prod-next-hover.svg") !important;    
+    background-repeat: no-repeat;
+    background-position:center;
+	
+}
+.customNavigation a.prev, .owl-buttons .owl-prev {
+    background-image: url("../img/themeimage/pst-prod-prev.svg") !important;
+    background-repeat: no-repeat;
+    background-position:center;
+	left:0;	
+}
+.customNavigation a.prev:hover, .owl-buttons .owl-prev:hover{
+    background-image: url("../img/themeimage/pst-prod-prev-hover.svg")!important;
+    background-repeat: no-repeat;
+    background-position:center;	
+}
+.brands .customNavigation{
+	position:static;	
+}
+.brands .pstbrand_prev,#psttestimonialcmsblock .owl-prev{left:0;right:auto;background-size: 22px;position:absolute;top: 35%;z-index:9;}
+.brands .pstbrand_next,#psttestimonialcmsblock .owl-next{right:0;left:auto;position:absolute;background-size: 22px;top: 35%;z-index:9;}
+.brands .customNavigation,#psttestimonialcmsblock .owl-buttons{position:static;}
+
+.brands .title-wrapper{display:none;}
+.brands .products .product_list{padding:0 30px;margin:0;}
+.brands .product-carousel{margin:0;}
+#psttestimonialcmsblock .owl-prev,
+#psttestimonialcmsblock .owl-next{
+	top: 50%;
+}
+#pstleftbanner img,
+#pstrightbanner img{
+	max-width: 100%;
+}	
+.tab-content .customNavigation .btn{
+	top: 47%;
+}
+@media (min-width: 1300px) {
+	.brands .customNavigation{		
+		opacity:0;
+		-webkit-opacity:0;
+		-khtml-opacity:0;
+		-moz-opacity:0;
+		transition: all 300ms ease;
+		-webkit-transition: all 300ms ease;
+		-moz-transition: all 300ms ease;
+		-ms-transition: all 300ms ease;
+		-o-transition: all 300ms ease;
+
+	}
+	.brands .products:hover .customNavigation{
+		opacity:1;
+		-webkit-opacity:1;
+		-khtml-opacity:1;
+		-moz-opacity:1;
+		transition: all 300ms ease;
+		-webkit-transition: all 300ms ease;
+		-moz-transition: all 300ms ease;
+		-ms-transition: all 300ms ease;
+		-o-transition: all 300ms ease;
+
+	}
+	.brands .customNavigation a.prev, #psttestimonialcmsblock .owl-buttons .owl-prev{
+		left:-35px;
+	}
+	.brands .products:hover  .customNavigation a.prev{
+		left: 0;
+	}
+	.brands .customNavigation a.next, #psttestimonialcmsblock .owl-buttons .owl-next{
+		right:-35px;
+	}
+	.brands .products:hover .customNavigation a.next{
+		right:0;
+	}
+}

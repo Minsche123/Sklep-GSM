@@ -1,0 +1,37 @@
+/* Css for payment start */
+#pstpaymentcmsblock{
+	float: right;
+	margin: 17px 0 0;
+}
+#pstpaymentcmsblock .payment-block img{
+	width: 37px;
+    height: 25px;
+	-webkit-filter: grayscale(1);
+	-moz-filter: grayscale(1);
+	-ms-filter: grayscale(1);
+	-o-filter: grayscale(1);
+	filter: grayscale(1);
+}
+#pstpaymentcmsblock .payment-block img:hover{
+	-webkit-filter: grayscale(0);
+	-moz-filter: grayscale(0);
+	-ms-filter: grayscale(0);
+	-o-filter: grayscale(0);
+	filter: grayscale(0);
+}
+@media (max-width: 991px) {
+	#pstpaymentcmsblock {
+		float: none;
+		margin: 25px 0 0;
+	}
+	#pstpaymentcmsblock .payment-block .h3 {
+		text-align: center;
+		margin-bottom: 10px;
+	}
+	
+}
+@media (max-width: 767px) {
+	#pstpaymentcmsblock{
+		margin: 20px 0 0;
+	}
+}
